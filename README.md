@@ -1,5 +1,5 @@
 # Nexmoes
-OneIndex 自带主题 nexmoe 的美化修改 基于Zisbusy制作的 [nexmoe主题](http://api.mtyqx.cn/) 的二次修改
+OneIndex 自带主题 nexmoe 的美化修改 基于Zisbusy制作的 [nexmoe主题](https://github.com/Zisbusy/OneIndex-theme) 的二次修改
 
 ## 修改了什么
 
@@ -23,8 +23,8 @@ OneIndex 自带主题 nexmoe 的美化修改 基于Zisbusy制作的 [nexmoe主�
 4. 进去oneindex管理页面，在网站主题选择 `nexmoes`，保存即可
 
 ## 演示效果
-    ![](https://s1.ax1x.com/2020/04/07/G2dci8.png)
+![](https://s1.ax1x.com/2020/04/07/G2dci8.png)
 ## 演示地址
-    [http://bendaye.mx23.top/](http://bendaye.mx23.top/)
+[http://bendaye.mx23.top](http://bendaye.mx23.top/)
 ## 感谢
-    此主题调用了 墨天逸 大佬的二次元图库 [http://api.mtyqx.cn/](http://api.mtyqx.cn/)
+此主题调用了墨天逸大佬的 [二次元图库](http://api.mtyqx.cn/) 。
