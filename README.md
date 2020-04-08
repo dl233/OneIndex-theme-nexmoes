@@ -26,5 +26,6 @@ OneIndex 自带主题 nexmoe 的美化修改 基于Zisbusy制作的 [nexmoe主�
 ![](https://s1.ax1x.com/2020/04/07/G2dci8.png)
 ## 演示地址
 [http://bendaye.mx23.top](http://bendaye.mx23.top/)
+[http://bendayepan.51xy.fun/](http://bendayepan.51xy.fun/)(因使用开放域名，QQ浏览器会拦截)
 ## 感谢
 此主题调用了墨天逸大佬的 [二次元图库](http://api.mtyqx.cn/) 。
