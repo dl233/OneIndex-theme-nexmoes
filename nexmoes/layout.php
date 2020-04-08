@@ -13,7 +13,7 @@
 <body class="mdui-theme-primary-blue-grey mdui-theme-accent-blue">
 	<header class="nav">
 		<div class="navSize">
-			<a href="/"><img class="avatar" src="https://s1.ax1x.com/2020/04/05/GD4fr4.jpg" /></a>
+			<a href="/"><img class="avatar" src="./view/nexmoes/picture/logo.png" /></a>
 			<div class="navRight">
 				<ul class="navul">
 					<li class="navli"><a href="//sjdnsadq.xg2.leapidc.xyz" target="_blank">博客</a></li>
