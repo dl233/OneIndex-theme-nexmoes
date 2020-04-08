@@ -16,7 +16,9 @@ OneIndex 自带主题 nexmoe 的美化修改 基于Zisbusy制作的 [nexmoe主�
 
     全文搜索 `localhost` 替换为自己所持有的域名
 
-    修改 `layout.php` 第15行 `img` 标签内图片地址为自己的自定义url
+    修改 `layout.php` 第15行 `img` 标签内图片地址为自己的自定义图片url
+
+    修改 `layout.php` 第19行 `a` 标签里的地址为自己的博客地址
     
 2. 将 `theme` 文件夹放在网站根目录.
 3. 将`nexmoes`文件夹放在网站根目录下的`view`文件夹里
