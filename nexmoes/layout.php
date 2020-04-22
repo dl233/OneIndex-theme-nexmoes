@@ -4,20 +4,22 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
 	<title><?php e(config('site_name'));?> - 私人云服务</title>
-	<link rel="shortcut icon" href="//localhost/theme/favicon.ico">
+	<link rel="shortcut icon" href="./view/nexmoes/theme/favicon.ico">
 	<link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/css/mdui.css">
-	<link rel="stylesheet" href="//localhost/theme/style.css">
+	<link rel="stylesheet" href="./view/nexmoes/theme/style.css">
 	<script src="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/js/mdui.min.js"></script>
-	
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+	<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
 </head>
 <body class="mdui-theme-primary-blue-grey mdui-theme-accent-blue">
 	<header class="nav">
 		<div class="navSize">
-			<a href="/"><img class="avatar" src="./view/nexmoes/picture/logo.png" /></a>
+			<a href="/"><img class="avatar" src="./view/nexmoes/picture/logo.jpg" /></a>
 			<div class="navRight">
 				<ul class="navul">
 					<li class="navli"><a href="//sjdnsadq.xg2.leapidc.xyz" target="_blank">博客</a></li>
-					<li class="navli"><a href="/login">登陆</a></li>
+					<li class="navli"><a href="./?/login">登陆</a></li>
 				</ul>
 				<div class="icon"></div>
 			</div>
@@ -36,6 +38,13 @@
 		</div>
     	<?php view::section('content');?>
   	</div>
-	<script src="//localhost/theme/personjs.js"></script>
+	<meting-js
+		server="netease"
+		type="playlist"
+		id="2485662712"
+		fixed="true">
+	</meting-js>
+	<!-- id改成自己的歌单号 -->
+	<script src="./view/nexmoes/theme/personjs.js"></script>
 </body>
 </html>
