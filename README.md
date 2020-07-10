@@ -15,7 +15,7 @@ OneIndex 自带主题 nexmoe 的美化修改 基于Zisbusy制作的 [nexmoe主�
 ## 演示效果
 ![](https://s1.ax1x.com/2020/04/07/G2dci8.png)
 ## 演示地址
-1. [http://bendaye.mx23.top](http://bendaye.mx23.top/)
+1. [http://demo.bendaye.cf/](http://demo.bendaye.cf/)
 2. [http://pan.bendaye.cf/](http://pan.bendaye.cf/)
 ## 调用
  [二次元图库](http://api.mtyqx.cn/) 。
