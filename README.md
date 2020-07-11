@@ -14,14 +14,21 @@ OneIndex 自带主题 nexmoe 的美化修改 基于Zisbusy制作的 [nexmoe主�
 
 ## 演示效果
 ![](https://s1.ax1x.com/2020/04/07/G2dci8.png)
+
 ## 演示地址
 1. [http://demo.bendaye.cf/](http://demo.bendaye.cf/)
 2. [http://pan.bendaye.cf/](http://pan.bendaye.cf/)
+
 ## 调用
  [二次元图库](http://api.mtyqx.cn/) 。
- APlayer
- metingJS
+ 1. APlayer
+ 2. metingJS
+
 ## 你需要知道的东西
 1. 视频播放过慢，建议使用多线程播放器PotPlayer或者QQ影音，右键视频页面下载按钮后复制下载链接到播放器里，选择打开URL的方式播放。
 2. 同理下载大型文件缓慢可以使用多线程下载工具IDM或者FDM
 3. 因主题精简了对于图片和视频的展示，更专注于视频和图片内容的展示，引用连接部分已删除，引用链接直接复制下载按钮即可。
+4. QQ浏览器下请禁用或删除 【图片查看编辑器 via QQ浏览器】 插件，已知该插件会破坏部分样式，目前已知干扰是图片浏览页面不能滑动等异常。
+
+## OneIndex
+[下载地址](http://demo.bendaye.cf/?/oneindex-master.zip)
