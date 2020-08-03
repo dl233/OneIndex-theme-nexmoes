@@ -31,7 +31,7 @@
 			<a href="/"><?php e(config('site_name'));?></a>
 			<?php foreach((array)$navs as $n=>$l):?>
 			<i class="mdui-icon material-icons mdui-icon-dark" style="margin:0;">chevron_right</i>
-			<a href="<?php e($l);?>"><?php e($n);?></a>
+			<a href="<?php rawurlencode('$1');?>"><?php e($n);?></a>
 			<?php endforeach;?>
 			<!--<a href="javascript:;" class="mdui-btn mdui-btn-icon"><i class="mdui-icon material-icons">refresh</i></a>-->
 		</div>
