@@ -1,9 +1,9 @@
 # Nexmoes
 OneIndex 自带主题 nexmoe 的美化修改 基于Zisbusy制作的 [nexmoe主题](https://github.com/Zisbusy/OneIndex-theme) 的二次修改
 
-## 更新了什么(2020-7-11)
+## 更新了什么(2020-8-4)
 
-1. 优化了本地资源目录，修复伪静态环境下的样式及资源加载不正确的情况。
+1. 修复了一个从`materials theme`延续至今的BUG。解决了文件路径若含有特殊符号，toolbar内的链接不能正确跳转的问题。
 2. 已经安装过的，只需要替换 `nexmoes`目录下的 `layout.php` 文件即可。
 
 ## 如何使用
