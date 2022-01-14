@@ -267,3 +267,7 @@ body {
   background-color: #f9f9f9;
   border-radius: 2px;
 }
+
+.mdui-fab-fixed-2{
+    bottom: 90px;
+}
