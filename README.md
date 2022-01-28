@@ -1,10 +1,9 @@
 # Nexmoes
 OneIndex 自带主题 nexmoe 的美化修改 基于Zisbusy制作的 [nexmoe主题](https://github.com/Zisbusy/OneIndex-theme) 的二次修改
 
-## 更新了什么(2022-1-14)
+## 更新了什么(2022-1-28)
 
-1. 视频页面增加复制地址到本地视频播放器url播放。
-2. 修改演示地址。
+1. 修复由旧nexmoe遗留下的排序不生效问题
 
 ## 如何使用
 
